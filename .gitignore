@@ -1,0 +1,15 @@
+# Yocto build output
+build/
+tmp/
+sstate-cache/
+downloads/
+
+# IDE and system files
+*.swp
+*.log
+*.pyc
+__pycache__/
+.DS_Store
+
+# Docker
+docker/*.log
