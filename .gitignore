@@ -13,3 +13,7 @@ __pycache__/
 
 # Docker
 docker/*.log
+
+.kas_shell_history
+
+layers/
